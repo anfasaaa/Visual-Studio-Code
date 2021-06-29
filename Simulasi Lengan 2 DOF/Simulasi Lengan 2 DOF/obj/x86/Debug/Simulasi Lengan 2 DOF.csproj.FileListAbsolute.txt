@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\bin\Debug\Simulasi Lengan 2 DOF.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\bin\Debug\Simulasi Lengan 2 DOF.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi_Lengan_2_DOF.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi_Lengan_2_DOF.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi Lengan 2 DOF.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi Lengan 2 DOF.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi Lengan 2 DOF.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Simulasi Lengan 2 DOF\Simulasi Lengan 2 DOF\obj\x86\Debug\Simulasi Lengan 2 DOF.csprojResolveAssemblyReference.cache
