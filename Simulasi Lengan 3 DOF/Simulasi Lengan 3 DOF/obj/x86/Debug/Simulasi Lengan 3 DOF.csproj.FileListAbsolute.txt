@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\obj\x86\Debug\Simulasi_Lengan_3_DOF.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\obj\x86\Debug\Simulasi_Lengan_3_DOF.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\obj\x86\Debug\Simulasi Lengan 3 DOF.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\bin\Debug\Simulasi Lengan 3 DOF.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\bin\Debug\Simulasi Lengan 3 DOF.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\obj\x86\Debug\Simulasi Lengan 3 DOF.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF\Simulasi Lengan 3 DOF\obj\x86\Debug\Simulasi Lengan 3 DOF.pdb
