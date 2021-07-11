@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\bin\Debug\Simulasi Lengan 3 DOF + Scroll Bar.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\bin\Debug\Simulasi Lengan 3 DOF + Scroll Bar.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\obj\x86\Debug\Simulasi_Lengan_3_DOF___Scroll_Bar.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\obj\x86\Debug\Simulasi_Lengan_3_DOF___Scroll_Bar.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\obj\x86\Debug\Simulasi Lengan 3 DOF + Scroll Bar.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\obj\x86\Debug\Simulasi Lengan 3 DOF + Scroll Bar.exe
+c:\users\asus\documents\visual studio 2010\Projects\Simulasi Lengan 3 DOF + Scroll Bar\Simulasi Lengan 3 DOF + Scroll Bar\obj\x86\Debug\Simulasi Lengan 3 DOF + Scroll Bar.pdb
